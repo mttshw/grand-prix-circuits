@@ -1,0 +1,14 @@
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="3.03030303e-05 29.9851515 29.9851515 29.9851515 29.9851515 1.51515151e-05 3.03030303e-05 1.51515151e-05 3.03030303e-05 29.9851515"></polygon>
+    </defs>
+    <g id="ident" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(22.000000, 22.000000) rotate(-315.000000) translate(-22.000000, -22.000000) translate(7.000000, 7.000000)">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Clip-2"></g>
+        <path d="M14.9926061,21.2409242 L21.4412424,24.4227424 L14.9926061,5.17865152 L8.54412121,24.4227424 L14.9926061,21.2409242 Z M29.9851818,14.9925909 C29.9851818,23.2727424 23.2726061,29.9851667 14.9926061,29.9851667 C6.71245455,29.9851667 3.03030303e-05,23.2727424 3.03030303e-05,14.9925909 C3.03030303e-05,6.71243939 6.71245455,1.51515151e-05 14.9926061,1.51515151e-05 C23.2726061,1.51515151e-05 29.9851818,6.71243939 29.9851818,14.9925909 L29.9851818,14.9925909 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+    </g>
+</svg>
