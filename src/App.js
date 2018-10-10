@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import SiteHeader from './components/header';
+import SiteFooter from './components/footer';
 
 import { injectGlobal } from 'styled-components';
 
@@ -14,6 +15,7 @@ injectGlobal`
   .container {
     margin: 0 auto;
     max-width: 1024px;
+    padding: 0 1em;
   }
 `;
 
@@ -23,6 +25,7 @@ class App extends Component {
       <div>
         <SiteHeader title="Grand Prix Circuits" />
         {this.props.children}
+        <SiteFooter />
       </div>
     );
   }

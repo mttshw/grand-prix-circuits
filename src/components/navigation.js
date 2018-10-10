@@ -11,7 +11,7 @@ const NavigationHolder = styled.nav`
     color: white;
     opacity: 0.8;
     padding: 0;
-    margin: 1em 0 1em 1em;
+    margin: 1em 0 1em 2em;
     display: block;
     text-decoration: none;
     font-weight: 600;

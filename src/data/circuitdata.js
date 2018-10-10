@@ -5,7 +5,43 @@ const circuitlist = [
     years: [1950, 1951, 1952, 1953, 1954, 1956, 1958, 1960, 1963, 1965, 1967, 1969, 1971, 1973, 1975, 1977, 1979, 1981, 1983, 1985, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016],
     place: "Silverstone",
     country: "Great Britain",
-    flag: "GBR"
+    flag: "GBR",
+    coords: {lat: 52.071990, lng: -1.016365},
+    layouts: [
+      {
+        years: "1950-1973",
+        svgid: "c50-73"
+      },
+      {
+        years: "1975-1985",
+        svgid: "c75-85"
+      },
+      {
+        years: "1987-1990",
+        svgid: "c87-90"
+      },
+      {
+        years: "1991-1993",
+        svgid: "c91-93"
+      },
+      {
+        years: "1994-1995",
+        svgid: "c94-95"
+      },
+      {
+        years: "1996",
+        svgid: "c96"
+      },
+      {
+        years: "1997-2009",
+        svgid: "c97-09"
+      },
+      {
+        years: "2010-present",
+        svgid: "c10-present"
+      }
+    ],
+    summary: "Next to the Northamptonshire villages of Silverstone and Whittlebury, the circuit straddles the Northamptonshire and Buckinghamshire border, with the current main circuit entry on the Buckinghamshire side. The Northamptonshire towns of Towcester (5 miles) and Brackley (7 miles) and Buckinghamshire town of Buckingham (6 miles) are close by, and the nearest large towns are Northampton and Milton Keynes. Silverstone is the current home of the British Grand Prix, which it first hosted in 1948. The 1950 British Grand Prix at Silverstone was the first race in the newly created World Championship of Drivers."
   },
   {
     id: 2,
